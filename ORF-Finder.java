@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-class Assignment_final {
+class ORF_Finder {
     public static void main(String[] args) {
 
         int option;
